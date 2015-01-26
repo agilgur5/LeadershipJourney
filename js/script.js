@@ -85,7 +85,7 @@ var json = [
 		caption: "Luffy - who I drew as my Inner Champion",
 		body: "The Inner Critic and the Inner Champion, the two forces always fighting within everyone's minds.",
 		read_more_id: "inner_critic",
-		read_more_html: "blah blah balh"
+		read_more_html: "The two people I ended up drawing as my Inner Critic and Inner Champion ended up being me at a very specific time and Luffy, one of my favorite anime characters. I think the times when my Inner Critic is most harsh is when I'm late to anything. I typically hate being late, it usually causes me all sorts of worries and nervous thoughts, and it makes me blame myself and get incredibly frustrated. Usually though, my lateness doesn't affect much, but nonetheless, it's something I've struggled to fix over the years. The best way I've found to manage my lateness is to simply change my mindset, it's not that I have to be there at \"this\" exact time, but several minutes earlier so that I'm on time. Or, as the saying goes \"If you're early, you're on time, if you're on time, you're late, and if you're late, you're screwed\". I also don't generally like deadlines and strict schedules, because frequently, not always though, being a bit late does not have a huge impact, and I'd rather not go through the stress of struggling for a deadline when there isn't much of a difference being late. Partially for this reason, and related to my core value of Freedom, my Inner Champion is Luffy, who is a symbol of freedom. I don't enjoy being restricted by societal norms, deadlines, etc, and recognizing that I'm free in so many ways (including free to not do something if I don't want to) is what makes him my Inner Champion. <br /> <br />  My inner critic sometimes gets to me when I'm nervous about something, like an interview, public speaking, or meeting new people. This isn't nearly as bad as the other times, and typically I'm just able to do it fine when I remind myself of past situations. The other derailer I typically have is to get too involved into something, when I should really quit while I'm still ahead. To get through this, I've found that accurately judging things with an importance to time ratio can be quite valuable. Another bad tendency I have is that when I get frustrated, unstable, or unbalanced because of something, the effects of that seep into many other activities. Sometimes I can't seem to forget about what's bothering me or I can't seem to figure out how to fix it. In cases like this, it helps to radically change my perspective for a day and do something really different. Being very mindful for an entire day is one way that has helped as well, as I then quickly realize my negative sprial of emotions."
 	},
 	{
 		title: "Resilience",
@@ -94,7 +94,7 @@ var json = [
 		caption: "Risa Mish - the presenter for the resilience topic",
 		body: "How do I keep myself healthy? Why do I get up in the morning? How do I continue every day?",
 		read_more_id: "resilience",
-		read_more_html: "blah blah balh"
+		read_more_html: "Ironically, this presentation happened to be on the day of my 3 year anniversary with my current girlfriend. As she is the thing that makes me most happy, I found it ironic that many of the questions Risa Mish asked were related to happiness, enthusiasm, and enjoyment. I still have my journal entry from them. Some of the things I do to stabilize myself and keep myself happy include watching anime, hanging out with friends and my girlfriend, playing sports, mainly frisbee, fencing, and tennis, working out, napping, being outside, making or playing music, meditating, and sometimes playing video games. I enjoy sharing experiences with my girlfriend and close friends - these things are probably the things that keep me most healthy and happy as these relationships are deeply important to me. I should probably meditate, be outside, and exercise more, as I haven't done those in a while and they are things that I enjoy and that keep me balanced."
 	},
 	{
 		title: "Leading from Strengths",
@@ -175,7 +175,7 @@ var json = [
 		caption: "SWOT Analysis",
 		body: "We figured out our projects, now let's figure out how to manage them properly so we have some great results to show by the end.",
 		read_more_id: "project management",
-		read_more_html: "blah blah balh"
+		read_more_html: "Analyze. Plan. Execute. Evaluate. Repeat. Some of the very basics of project management as well as product development. It's important to keep these cycles small and impactful so that one can iterate faster and make improvements in the right places. SWOT, Strengths, Weaknesses, Opportunities, and Threats Analysis is helpful in planning and determining the viability of a project or product. Creating timelines, milestones, and goals are essential for a project to be productive in its lifetime because, even though they may change, they keep a team focused."
 	},
 	{
 		title: "Survey",
@@ -227,7 +227,7 @@ var json = [
 		caption: "The new room where the second semester will be conducted",
 		body: "How do we brainstorm effectively? Also, who are all these new people?",
 		read_more_id: "brainstorming",
-		read_more_html: "blah blah balh"
+		read_more_html: "Well, it's a new semester, in a new room, at another obscure timeslot. And... it's time to brainstorm! This class was very similar to some of the things we learned during the second retreat when we first formed our project teams. There's actually research and strategy that can be employed to make brainstorming more effective. Depending on the task we're brainstorming and the goals of the session, we can utilize different strategies (some more independent, such as taking a few minutes to jot down ideas then coming back together, and some more co-dependent, such as going around) in order to greatly improve our brainstorming experience. I've also found successful brainstorming sessions to be very few, but the ones that are are pretty amazing, and these techniques have certainly helped to raise the frequency of those successes. <br /> <br /> Probably the biggest lesson I learned here was to not say \"No, but\"."
 	},
 	{
 		title: "Managing Conflict",
@@ -236,7 +236,7 @@ var json = [
 		caption: "Survey results to determine if our team's on the same page",
 		body: "How do we deal with conflict? And how to make sure we deal with it well.",
 		read_more_id: "conflict",
-		read_more_html: "blah blah balh"
+		read_more_html: "Dealing with conflict both in and outside of the team has always been a struggle for me. Why? Mainly because conflict is stressful and tends to fog up the clarity I usually have in my head. Sticking to a set of techniques and styles is very helpful as that means I don't nearly have to think as much when dealing with conflict, which is difficult to do in such a situation and even harder to do while remaining calm. We also took a survey and learned what our conflict resolution styles were (mine was collaborative!). Our purpose project teams took surveys at the same time to figure out the conflicts within our teams so that we can resolve them sooner rather than later. Breaking down and formally learning conflict resolution styles and techniques made it a lot more logical and methodical in my head, which I hope will help in my future conflicts. At the very least, it has helped to validate that my intuitions with conflict resolution are usually correct."
 	},
 	{
 		title: "Ethics",
