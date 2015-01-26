@@ -6,16 +6,16 @@ var json = [
 		caption: "Werner Zorman",
 		body: "Freshman year. After just figuring out which college I'm going to, I already have to start thinking about careers.",
 		read_more_id: "meeting_werner_zorman",
-		read_more_html: "blah blah balh"
+		read_more_html: "I went to the career fair and spoke to lots of former interns from plenty of companies my first few months of college as well as the months prior. I learned about all sorts of possibilites for my future career and was beginning to think about potentially leadership opportunities such as LDPs (Leadership Development Programs). Many of the companies I was interested in had world class LDPs, and, if anything, it would definitely be a learning experience. <br /> <br /> Lo and behold, in my ENGRG 1050 Seminar, an instructor named Werner Zorman comes to do a class introducing engineering leadership and experiential learning. The class ended being really fun, thought-provoking, and very engaging - it was probably the best 1050 class I'd had so far. If I was already interested in leadership, this definitely sparked my attention. I spoke to Werner after and mentioned some of the opportunities I was interested in and gave him my email. This would be the very beginning of my involvement with the leadership program."
 	},
 	{
 		title: "Engineering Leadership Certification Program Info Session",
 		date: "11/05/2013",
 		photo_url: "./img/olin_hall.jpg",
 		caption: "Olin Hall",
-		body: "I decided to go to the information session and to find out some more about the leadership program. Apparently, I came to the very last info session and there was only one other person other than Werner there, Daniel Galvez, who would later become an awesome friend.",
+		body: "I decided to go to the information session and to find out some more about the leadership program.",
 		read_more_id: "leadership_program_info_session",
-		read_more_html: "blah blah balh"
+		read_more_html: "Apparently, I came to the very last info session and there was only one other person other than Werner there, Daniel Galvez, who would later become an awesome friend. I received an email from Werner about the information sessions and finally decided I would go when I didn't have a prelim lined up that night. As there were only three people in the room and this would be the very first Engineering Leadership Certification class, the session didn't quite inspire me to action. I didn't really care too much about certifications, and the value of the certification wasn't very meaningful either as it wasn't accredited and wouldn't be backed by another class, for instance. It didn't help that one of the upper level classes I wanted to take next semester would be at the exact same timeslot. <br /> <br /> At the same time, I'm glad I met Dan then, was able to speak and relate to him, and got more of an idea of what this program might be. I also learned a bit more about Werner and his aspirations. Looking back, it was probably a good choice that I ended up joining the program, at the very least for the value of the relationships I made. While the lessons I learned may not have been as specific as the Algorithims class I may have taken instead, they were all very significant and impacted my life in many ways."
 	},
 	{
 		title: "Engineering Leadership Certification Program Application",
@@ -24,7 +24,7 @@ var json = [
 		caption: "Qualtrics - where the application was hosted",
 		body: "After a bit of consideration, I thought it wouldn't hurt to apply, if I ended up not wanting to take it, I could always say no after being accepted.",
 		read_more_id: "leadership_program_application",
-		read_more_html: "blah blah balh"
+		read_more_html: "Okay, well good thing I decided to try the application. This is where I really started to get interested about the program. The questions were really intriguiing and thought-provoking, and for some of them I really felt inspired to write my answers. This definitely made me rethink the leadership program and probably was the leading factor in my decision to take the class."
 	},
 	{
 		title: "Engineering Leadership Certification Program Acceptance",
@@ -33,7 +33,7 @@ var json = [
 		caption: "I got accepted!",
 		body: "Right before Thanksgiving break, I get an awesome email... I got accepted into the leadership program!",
 		read_more_id: "leadership_program_acceptance",
-		read_more_html: "blah blah balh"
+		read_more_html: "Now that I'm officially accepted, I really have to make a decision between taking Algorithms and this class. I really thought the small size of the class and in-depth material would actually interest me for once (unlike most of my classes), and I was definitely right about both of those."
 	},
 	{
 		title: "First Retreat",
@@ -42,7 +42,7 @@ var json = [
 		caption: "Light on the Hill Retreat Center",
 		body: "First class... yep, just your typical introductory session with lots of course information... except not really.",
 		read_more_id: "first_retreat",
-		read_more_html: "blah blah balh"
+		read_more_html: "First thing's first, let's get on a bus! And then start talking with a bunch of people I just met for the next hour. Okay! Just like every other class I've taken... I guess this is a good start since I didn't want this to be like every other class in the first place. <br /> <br /> We get off the bus and almost immediately get split up into groups... where we would then do a lifeboat exercise. Maybe this is weird of me, but for some reason, I took the exercise really emotionally - all of the people I just met were going to die and we had to choose only three people to survive! I still wish the video of my lifeboat speech wasn't lost, as I'd love to see my emotions, the look on my face, and also show it to a certain someone. Luckily, I still have the journal that we were supposed to write that day, and that brought back a range of emotions. I ended up saying that I did not believe I nor my aspirations were more important than anyone else's. While I normally find this ridiculous to judge or assume, it was even more so since I had just met them and they were probably incredible people too. The only real reason I wanted to live over them was that I wanted to spend the rest of my life with my current girlfriend and get married to her. I did not want to die and lose all that, as it's perhaps my greatest dream, nor make her sad. I told them that if I survived them, I would do my best to honor those that died, give them proper funerals and contact all their loved ones, and do my best to live for them that sacrificed themselves for me and make their aspirations come true as well. <br /> <br /> A bit surprisingly, I ended up getting chosen as one of the three almost unanimously. Spyros was the only one who did not vote for me, and gave a really impressive response - he had said that it was because I had experienced those things already, and that the others had not, that he did not vote for me. That was really thought-provoking and impactful, both the entire exercise and Spyros's statement. Side note: My entire future purpose project team happened to be in that same room that very first day."
 	},
 	{
 		title: "Storytime",
@@ -51,7 +51,7 @@ var json = [
 		caption: "A candle-lit, emotionally intensive story telling session",
 		body: "On the second night of the retreat, Erica and Werner leave us with our TAs and some candles to give us a chance to talk about our own stories. Little did anyone expect it to turn into something amazing.",
 		read_more_id: "storytime",
-		read_more_html: "blah blah balh"
+		read_more_html: "Perhaps it was because of Andy and Phil setting the scene, or perhaps because of all the emotional and emotionally connecting activities we had done in the past two days, or maybe just because of the candles, but that night really became something amazing. Every person ended up talking and ended up sharing a deeply personal story that had significantly impacted their lives. It was amazing both to open up and to hear these stories. I as well as many of my fellow classmates even hugged people after and wanted to help them through their personal struggles already. I told the story of one of the most troubling events in my life to that date and really appreciated being able to finally tell that story. Others told even more troubling stories. All in all, the past two nights were simple incredible. I'd never experienced such an emotional connection with friends, and especially not with people I had just met."
 	},
 	{
 		title: "Typing",
@@ -277,6 +277,15 @@ var json = [
 		read_more_html: "blah blah balh"
 	},
 	{
+		title: "Exit Interview",
+		date: "11/12/2014",
+		photo_url: "./img/interview.png",
+		caption: "Interview time",
+		body: "What have I learned and how can I improve in the places I'm struggling?",
+		read_more_id: "exit_interview",
+		read_more_html: "I talk a lot about what I've learned in the \"Last Class\" event, so I'm going to take this to focus on how I can improve in the future. Over the course of leadership program, especially the first semester, I learned and improved a great deal of strengths, self-confidence, and presentation abilities. I've been able to lead people much better since achieving those things and have really become a more authentic and genuine individual and speaker, which is both what I want to be an strive to be. Unfortunately, I've still found it really difficult to connect to others, in both my work relationships and my friendships. During the course of my exit interview, Erica and I both realized that some of the difficulties I have in speaking (e.g. being repetitive or talking too much) can really adversely affect the really powerful impact I'm able to give. <br /> <br /> What I realized after the interview was that perhaps the reason I have trouble connecting to others may also be due to the fact that I myself am not as open as I may want to be. I really try to connect to others and listen to them and relate to them, but sometimes this causes me to talk too much yet at the same time not really open up about myself. While obviously, to achieve a deeper connection, one of the two parties involved has to be more open, I never thought of myself as being the one to do that for some reason. It may be that I'm still afraid or perhaps ashamed of my own weaknesses, while in reality, the ability to talk about those is quite empowering."
+	},
+	{
 		title: "Building Culture",
 		date: "11/17/2014",
 		photo_url: "./img/cultural_web.png",
@@ -292,7 +301,7 @@ var json = [
 		caption: "The Goalden Hour Team",
 		body: "Time to wrap everything up. What did we do the past 6 months?",
 		read_more_id: "ethics",
-		read_more_html: "blah blah balh"
+		read_more_html: "I was really nervous before our final presentations. Other than some of the events that happened during Thanksgiving break only a few days ago, I wasn't able to prepare, adjust to the atmosphere and environment by coming early, or even dress as I wanted to due to an awfully large number of things that popped up last minute (e.g. my friend taking my dress shoes for a party, my shirt getting wrinkled during the day, etc). We left many things to the last minute and I also had to admit that I put far too much of the responsibility and burden of the presentation and final product onto myself. I gave nearly every task we had to do over break to myself, and ended up struggling to do those as I was emotionally unstable due to certain events over break. <br /> <br /> All that being said, somehow our presentation turned out really well. We really got it figured out in the last few days, and though we all should have practiced more and together (which we Unfortunately did not get a chance to), it didn't nearly come out as bad as we may have thought it would. Furthermore, our video came out great and had a real impact on the audience. I got really excited was happy to hear that most of the audience was raving for and wanted the product we thought of last semseter all over again. Maybe a lot of things didn't turn out as intended, but everything still turned out fine."
 	},
 	{
 		title: "Last Class",
@@ -301,7 +310,7 @@ var json = [
 		caption: "I love these guys",
 		body: "Many tears were shed that day... across another candle-lit circle",
 		read_more_id: "last_class",
-		read_more_html: "blah blah balh"
+		read_more_html: "This final class was very heartwarming and touching. Across another candle-lit circle we gathered and told shared some final stories and thank yous. Everyone was very appreciative and sad that it was ending already. I really enjoyed meeting, seeing, and interacting with these fantastic people weekly, so I was really sad that this may be the last time I get to see them for an extended period of time. I shared a story about a very troubling event, perhaps the most troubling event that happened to me in my entire life, that had happened just a week ago, and how I was incredibly happy to be here with them right now. The amount of hugs and words of support I received afterward was really incredible and really made me feel loved and appreciated. We really were a great group of people that had each other's backs. <br /> <br /> As the program came to an end, I realized I had learned so much over the past year. I learned how valuable my strengths were, that they could be extremely effective and persuasive when I actually  used them correctly. Leading from my strengths and focusing on my strengths instead of my weaknesses had really changed many things in my life, especially my career, over the past few months. I've also better learned how to make decisions and lead my start up at a much higher level. Everything is no longer guesswork or trial-and-error as I've actually learned some very useful techniques and tactics. Learning through research and hard science about conflict, feedback, decision making, and culture, made me realize quite a large deal of what I was doing both correctly and incorrectly. My presentation and influencing abilities also dramatically increased in impact once I learned the concrete terms and better understood how what I was already doing affected others. <br /> <br /> I can't explain enough how great of an experience this was. While it was quite a bit of work at times, and sometimes extremely stressful as well, it was far more enjoyable and rewarding than any other class I've taken. The relationships I've made are also much deeper and more significant than in any other class, and I'm sure I'll continue treasuring them for many days ahead."
 	},
 	{
 		title: "Final Notes",
