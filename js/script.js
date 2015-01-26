@@ -344,7 +344,6 @@ $(function() {
 	var direction = 'newest';
 
 	setupTimeline(json);
-	$('#sort-buttons .sort-oldest').click(); // sort by oldest initially
 
 	/**
 	 * Get the timestamp (milliseconds) given the year.
@@ -410,6 +409,7 @@ $(function() {
 				sortAscending: false,
 				itemPositionDataEnabled: true
 			});
+			$('#sort-buttons .sort-oldest').click(); // sort by oldest initially
 		});
 
 		// add open/close buttons to each post
