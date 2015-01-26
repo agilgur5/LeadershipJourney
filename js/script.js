@@ -121,7 +121,7 @@ var json = [
 		caption: "What real listening looks like",
 		body: "So you know how well you listen can sometimes change? Well apparently you can define three levels of listening.",
 		read_more_id: "listening",
-		read_more_html: "blah blah balh"
+		read_more_html: "Level 1 - The foucs is on yourself. You're not really listening very much at all to the other person and if you are, you're thinking about how what they're saying relates to you, not how it affects them. Level 1 typically involves a lack of attention and perhaps multi-tasking. Level 2 - The focus is on what the other person says. You're focusing on the other person and really trying to understand what they're saying. You're not distracted and are trying to empathize. Level 3 - The focus is on what the other person says and doesn't say. Level 3 listening essentially involves reading in between the lines, really using your empathy and trying to understand the emotions and values of the other person. You're not just listening to the content of their words, but also the reasons behind them. <br /> <br /> I didn't even know there were levels of listening! I just kind of thought there was bad, and good. Bad being Level 1 and good being Level 2. Not surprisingly, the majority of my listening involves Level 2 listening. But Level 1 listening isn't necessarily bad, and each of the levels have their own unique purposes. Understanding what the levels are and when to use them has been essential in improving my ability to connect with and understand others."
 	},
 	{
 		title: "Presentation Skills",
@@ -130,7 +130,7 @@ var json = [
 		caption: "Let's replace PowerPoint with something more \"sticky\"",
 		body: "How do you get the attention of a group of people?",
 		read_more_id: "presenting",
-		read_more_html: "blah blah balh"
+		read_more_html: "One of the most informative classes of the first semester, I was surprised at how helpful this session was. All of the things that I had learned about in Cognitive Science that are used in film-making and reading were also applicable to presenting. Using stories, props, and examples can all make a presentation more sticky. My voice can be incredibly helpful in setting the pace and tone of the presentation, as well as in transitioning between topics. Just like how music allows for more seamless transitions in movies, so can my voice during a presentation. Power posing and really getting comfortable during a presentation is also more than just a little helpful, it's incredibly effective."
 	},
 	{
 		title: "Project Idea Presentations",
@@ -139,7 +139,7 @@ var json = [
 		caption: "Me pitching my idea, wearing one of my favorite outfits",
 		body: "28 people. 2 hours. About 1 minute each. I wonder what everyone's going to pitch.",
 		read_more_id: "presentations",
-		read_more_html: "blah blah balh"
+		read_more_html: "A great of deal of interesting and passionate ideas were pitched. After some of the pitches, I really felt like getting up and saying, \"Let's go do that right now!\". Overall, I was really impressed with the entire class's presentation ability and crazy passions and aspirations. I probably shouldn't have been surprised, but that was a really great and energetic day. <br /> <br /> To make myself as comfortable and on type as possible, I decided to wear my favorite semi-formal outfit, a blazer, my Iron Man shirt, and jeans, it's quite the combination. That actually really helped me get myself psyched as well as take away any fears or nervousness about public speaking... in front of a camera nonetheless. I think the initial part of my pitch really went well and really related to my hunger and purpose. As I realized a few months later, \"My Stuff, Your Space\" was a great idea, but not something I was all too passionate about. After re-watching my presentation, I also seemed to lose the intensity I had at the beginning of my pitch when I began to talk about it. <br /> <br />Thinking back, I believe I would have much rather preferred to pitch my other idea: The Full Dive Experience. Probably my biggest hunger is to make virtual reality a reality, to allow anyone to seamlessly move their consciousness to a virtual world, essentially \"going to sleep\", not moving your current body, and a waking in a new world. A great first step would have been to sync a 3D virtual reality headset with an EEG brainwave reading device - imagine playing a virtual reality game just using your mind."
 	},
 	{
 		title: "Second Retreat",
