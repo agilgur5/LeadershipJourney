@@ -245,7 +245,7 @@ var json = [
 		caption: "Okay, I couldn't find a picture of Park",
 		body: "What happens when people have to make tough choices... do they violate ethical and environmental choices? Or follow their own ethical standards?",
 		read_more_id: "ethics",
-		read_more_html: "blah blah balh"
+		read_more_html: "So this was actually my second time hearing this lecture... but for some reason it was a lot more enjoyable in ENGRG 3910 than in ENGRG 1050. I think this is simply due to the fact that our class is more engaged. We also had an entire topic on engineering ethics in the entreprenuership class I took last spring, and that was taught very well too, so this was a bit repetitive for me. Park went through several case studies of historical engineering ethics, including the Harvard cheating scandal, a Bell Labs employee's fake publications, and improper cement checking in order to promise faster deadlines. <br /> <br /> Having gone over this topic a third time, I personally feel that I would much rather make a decision by my own ethical and moral standards, rather than commiting violations that may be considered the norm. I know that I won't regret making a decision based on my own principles, but that I may certainly come to regret a decision I made \"just because everyone else was doing it\". When I've seen and heard people cheating, I've never joined in, even if most of the class was doing it, and if I ever thought my grade was at stake as a result or that I was in a place to make this known, I always did so. At least in the perspective of academics, I've never been afraid to stand up when I see something wrong, even if that means confronting a professor or going to the head of a department."
 	},
 	{
 		title: "Decision Making for Leaders",
@@ -254,7 +254,7 @@ var json = [
 		caption: "Some of my results from the decision making survey. Also, my name is apparently synonymous with John Doe.",
 		body: "I guess I don't make perfect decisions either. And there's research to explain why too!",
 		read_more_id: "decision_making",
-		read_more_html: "blah blah balh"
+		read_more_html: "One of my favorite lectures in the second semester was decision making. We did a really long and involved survey beforehand and received a pretty huge packet of feedback and explanations on this day. Apparently, decision making is a lot more straight-forward than I thought it was. I didn't know there even was research or science behind it. I was genuinely shocked to learn that there actually is a right and wrong in decision making. Learning that I took too much time deciding one thing or was too autocratic with another really made me think a second time about my thought process with decisions, especially corporate and group decisions. I almost immediately started to implement the lessons I learned in my daily life, with the greatest focus being in my company's affairs."
 	},
 	{
 		title: "Feedback",
@@ -263,16 +263,16 @@ var json = [
 		caption: "Feedback in a simple diagram",
 		body: "Okay, well it's not really that simple. Today we learned how to give and receive effective feedback.",
 		read_more_id: "feedback",
-		read_more_html: "blah blah balh"
+		read_more_html: "Feedback isn't just about telling people what they did wrong. It's also about telling them effectively, getting them to learn and understand your worries, as well as being able to receive it effectively, and not get frustrated or aggravated as a result. Feedback is essential for proper communication in any relationship, so learning more about it and seeing examples of it being used given and received in both effective and ineffective ways was really helpful. While I've certainly used many of the strategies we learned, such as being specific, descriptive, timely, offered with a helpful attitude, and verified, it made a lot more sense when this was explained. My understanding of feedback and these specific terms greatly improved once the reasons why these techniques can be effective or ineffective were explained."
 	},
 	{
 		title: "Power and Influence",
 		date: "11/03/2014",
 		photo_url: "./img/influence.jpg",
 		caption: "Some of my scores on the influence survey",
-		body: "What is power and how do we influence people? Let's see with a Kidney transplant case study.",
+		body: "What is power and how do we influence people? Let's see with a kidney transplant case study.",
 		read_more_id: "power_influence",
-		read_more_html: "blah blah balh"
+		read_more_html: "This class was also one of my favorites of the second semester. We dug deep in order to figure out what power and influence really are and how they are commonly defined. We also took a survey to determine what our own influencing style is and how it might need improvement. Through a case study about a kidney transplant, we split up into groups and figured out a skit we could do in order to persuade and influence people to choose our candidate to receive the kidney. Trying this and seeing all the different styles and techniques the other groups attempted was really interesting and rewarding."
 	},
 	{
 		title: "Networking",
