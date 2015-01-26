@@ -344,6 +344,7 @@ $(function() {
 	var direction = 'newest';
 
 	setupTimeline(json);
+	$('#sort-buttons .sort-oldest').click(); // sort by oldest initially
 
 	/**
 	 * Get the timestamp (milliseconds) given the year.
