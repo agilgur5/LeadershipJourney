@@ -184,7 +184,7 @@ var json = [
 		caption: "The survey results we got to determine interest in our product",
 		body: "We sent out a survey across many list-servs and Facebook groups. The response... positive!",
 		read_more_id: "survey",
-		read_more_html: "blah blah balh"
+		read_more_html: "Sending out a market survey was definitely the right choice of action. As Patrick Thean had said, instead of launching a cannon ball, first shoot a few bullets. We gauged both interest and needs with our market survey, and determined that people were definitely interested in the idea we had. Figuring out what people specifically needed or wanted in their daily lives helped us narrow down our scope and realize our MVP."
 	},
 	{
 		title: "Summer Communication",
@@ -193,7 +193,7 @@ var json = [
 		caption: "Slack - probably the best tool our group used",
 		body: "How do we communicate and be productive when we're all in different places doing different things?",
 		read_more_id: "summer_communication",
-		read_more_html: "blah blah balh"
+		read_more_html: "Communicating over the summer and being productive was difficult... to say the least. There was about a month at the very beginning where we didn't really do much work. Everyone was getting ready to go on internships and vacations as well as just trying to relax and have fun at home before doing any work. Eventually, we settled into having meetings weekly on Wednesdays. We used Skype, Slack, GroupMe, and InvisionApp to greatly aid in our communications and remove email entirely from our workflow. These tools made it much easier and faster to communicate and keep ideas organized. I think the biggest thing I learned during this communication phase is that a strict schedule and proper tools are absolutely essential for productivity when working remotely and not in-person."
 	},
 	{
 		title: "App Design",
@@ -202,7 +202,14 @@ var json = [
 		caption: "Some of the paper prototypes I drew over the summer",
 		body: "Let's make an effective user experience. But first... we need to define user experience.",
 		read_more_id: "app_design",
-		read_more_html: "blah blah balh"
+		read_more_html: "One of the biggest tasks we managed to do over the summer was to figure out the app design. While I drew and mapped out all of the prototypes and interactions, we brainstormed and narrowed down together what the core functionality of the app would be. It was really helpful and surprisingly effective to think of the user experience with a team as opposed to alone. Many different opinions allowed us to find better, easier, and more intuitive options to form the user experience, with which I could better build out the user interface."
+	},
+	{
+		title: "App Name",
+		date: "7/15/2014",
+		photo_url: "./img/goalden_hour_background.jpg",
+		caption: "Goalden Hour",
+		body: "After an entire summer of failed brainstorming, we finally figured our app's name less than ten minutes into our first meeting back on campus"
 	},
 	{
 		title: "Third Retreat",
@@ -211,7 +218,7 @@ var json = [
 		caption: "Doing some volunteering by pushing shopping carts out of the parking lot at Target",
 		body: "A new semester with the same great people. First thing we do... a scavenger hunt?",
 		read_more_id: "third_retreat",
-		read_more_html: "blah blah balh"
+		read_more_html: "So we're finally back on campus and get to see each other. I'm really happy to see everyone again and happy that these are some of the first people I get to see after getting back to campus. This is supposed to be a really fun retreat and barbecue, so I'm actually kind of excited... but Erica and Werner seem to be scheming something. <br /> <br /> And so we're all thrown into some cars and driven all across Ithaca... to do what? A scavenger hunt! This ended being a really fun activity and I loved my group and some of the stupid and fun things we did both to fulfill the scavenger hunt and just in general. The barbecue afterward was a lot of fun too, talking to everyone once again about their experiences the last summer as well as playing some great frisbee and football. A great time indeed."
 	},
 	{
 		title: "Brainstorming",
