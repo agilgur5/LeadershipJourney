@@ -148,7 +148,7 @@ var json = [
 		caption: "Yes, there was a sorting hat",
 		body: "Well, we finished pitching, we voted which ones were our top choices, and we know our purposes... What team will I be in?",
 		read_more_id: "sorting",
-		read_more_html: "blah blah balh"
+		read_more_html: "So I ended up being placed into the Productivity & Efficiency team. To be honest, I was a bit confused as to why I got placed into this category, and Erica and Werner explained that I was probably the most difficult to sort. My hungers, my presentation, and my votes all went in different directions, so I can definitely imagine that. Nonetheless I was placed into a fun team with great people (well that's every team...). Erica's description of the team's values, including \"making the everyday lives of people more efficient, so that they can get more done and work more effectively on their goals\" really resonated with our entire group. Not surprisingly, we decide to make an app that involves goals."
 	},
 	{
 		title: "Effective Teams",
@@ -157,7 +157,7 @@ var json = [
 		caption: "Toxic Waste Disposal?",
 		body: "Now that pitches are completed and teams are formed, it's time to make sure we can be effective teams. Luckily, I'm part of Productivity & *Efficiency*.",
 		read_more_id: "effective_teams",
-		read_more_html: "blah blah balh"
+		read_more_html: "Understanding challenges, spening time planning, dividing labor equally, not planning too long before acting, and accounting for coordination costs and creating timelines were some of the many things we learned during the second retreat. Through a number of team activities, many being very fun and interactive, we got to experience some of these lessons first hand. The largest problem, which probably throughout the entire duration of our purpose project remained one of the largest problems, was that I was the only experienced programmer. To add to the dismay, I later found out I was also the only one who could really do an user interface design and who, initially at least, had any knowledge of product and start up engineering. Choosing a tech heavy project, while aligning with our passions, likely was not too great of a decision due to this heavy problem, which broke tips 1 and 3. Ironically, we thought we wouldn't get stuck planning due to the heavy engineering focus of our project, but perhaps due to the lack of experience of our team, ended up being quite the problem. Team efficiency is an extremely important aspect to consider when first thinking of a project to start."
 	},
 	{
 		title: "Goals and Accountability",
@@ -166,7 +166,7 @@ var json = [
 		caption: "Guest speaker Patrick Thean",
 		body: "In 2 days, I got to speak with Patrick Thean at least 3 times. It was exciting to learn and receive insight from someone with so much experience.",
 		read_more_id: "goals_and_accountability",
-		read_more_html: "blah blah balh"
+		read_more_html: "Patrick Thean was an amazing person to talk to and get to know. The Statler Buffet, especially the desert was also amazing to get to know. As Patrick is a very successful entreprenuer, especially at leading and coaching mid to larger companies, his insight in goals and accountability was unparalleled. After listening to him 3 times, reading his book and blogs, watching his podcasts, and exchanging emails with him, many of his quotes are stuck in my head. His thoughts on culture and iterating on products have profoundly changed the way I go about starting things as well as my mindset about working and leading teams."
 	},
 	{
 		title: "Project Management",
